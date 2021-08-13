@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jsathvika
+- 👋 Hi, I’m @sathvika
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning and pursuing my btech and got done with c,java,python,data structures in python.
 - 💞️ I’m looking to collaborate on coding stuff and machinelearning
